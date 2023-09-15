@@ -1,0 +1,3 @@
+1. prisma init (npm i prisma --save)
+2. database link = mysql://username:password@localhost:3306/databasename
+3. after creating schema migrate the prisma (npx prisma migrate dev --name 'databasename' init)
